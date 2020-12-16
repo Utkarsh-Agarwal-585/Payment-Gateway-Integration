@@ -1,9 +1,9 @@
 # Payment Gateway Integration with PHP 💰
 
-### ** A live working demo is hosted on InfinityFree is [Here !](http://pgi.epizy.com/) where the payment gateway is integrated.**
-### ** There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page**
-### **  where user can paid the amount by choosing different payment type e.g. credit card, Paypal, etc.
-### ** Once the payment is done and invoice will be generated and email will be sent to the user for the payment received.
+###  A live working demo is hosted on InfinityFree is [Here !](http://pgi.epizy.com/) where the payment gateway is integrated.
+###  There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page,
+###  where user can paid the amount by choosing different payment type e.g. credit card, Paypal, etc.
+###  Once the payment is done and invoice will be generated and email will be sent to the user for the payment received.
 
 ## <u> Some Important Terms </u>
 
@@ -25,4 +25,4 @@
 ### - now run your website 
 
 ## <u> Project Explanation </u>
-### ** The project explanation is [here !](https://youtu.be/3g35dgPjwTE)**
+### The project explanation is [here !](https://youtu.be/3g35dgPjwTE)
